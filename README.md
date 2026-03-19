@@ -1,4 +1,4 @@
-roject: GigShield
+project: GigShield
 📄 Executive Statement
 In the gig economy, "no work" means "no pay." While most insurance covers accidents, it ignores the income gaps caused by the environment. GigShield is an AI-driven safety net that ensures a bad day doesn't lead to a financial crisis for delivery partners.
 
