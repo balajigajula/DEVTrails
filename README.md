@@ -31,3 +31,7 @@ We use Artificial Intelligence to make the system honest, fast, and smart:
 Smart Pricing: Our AI analyzes local weather and historical data to calculate a fair weekly fee for each specific delivery zone.
 
 Fraud Detection: To spot fake claims, the AI acts as a digital witness. It instantly cross-references a rider’s claim with real-time GPS data, satellite weather reports, and official news. If the data matches, the payout is triggered instantly.
+
+
+
+https://vercel.com/balajigajulas-projects/dev-trails/Cq1GpQPgrjUpNNiwe6i723vA8J8b
